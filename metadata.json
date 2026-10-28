@@ -1,0 +1,6 @@
+{
+  "name": "WpDev Keyboard",
+  "description": "A high-end scrollytelling landing page showcasing the WpDev mechanical keyboard's layered architecture through smooth scroll-linked animation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
